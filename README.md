@@ -43,10 +43,18 @@
 
 ![主页][6]
 
+
+## H5版本
+ 
+* 传送门：[Demo演示点这里][7]
+* 代码：https://git.dev.tencent.com/liuziting/RefuseClassification.git
+
+
   [2]: https://cn.vuejs.org/
   [3]: https://cli.vuejs.org/zh/
   [4]: https://youzan.github.io/vant/?source=vuejsorg#/zh-CN/intro
   [5]: https://github.com/MZCretin/RollToolsApi
   [6]: http://tc.lihail.cn/400087732_banner.jpg
+  [7]: http://liuziting.coding.me/RefuseClassification/
   
   
